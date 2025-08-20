@@ -4,13 +4,6 @@ Welcome to the **Movie Recommendation System**! This web app recommends movies b
 
 ---
 
-## 🖥️ Live Demo
-<img width="1916" height="956" alt="image" src="https://github.com/user-attachments/assets/1a52dead-82b1-4ce7-b409-e39d3b45e53b" />
-
-
-
----
-
 ## ✨ Features
 
 - **Smart Movie Recommendations** – Get a list of similar movies based on your favorite.
